@@ -1,0 +1,14 @@
+# Field-typed incident codes received over radio / SMS / paper forms.
+# These contain transcription errors, phonetic spellings and truncated tokens.
+# The M3 edit-distance module resolves each of them against codes.txt.
+FL-O100 | FLOOD | Water lv1 critcal, leve breach
+FL-O1O0 | FLOOD | water lvel critcal
+EQ-O2OO | EARTHQUAKE | seismc event structral damge
+EQ-O21O | EARTHQUAKE | landslde trigred by seismc
+WF-O3OO | WILDFIRE | actve fire front advancng
+CY-O4OO | CYCLONE | landfal with strom surge
+CY-O41O | CYCLONE | seawal breach, coastal inundaton
+CS-O5OO | CHEMICAL | industrail solvant relese
+LS-O6OO | LANDSLIDE | road isolaton, access chokepoint
+PO-O8OO | INFRA | pwer outag at substation
+WA-O9OO | INFRA | water suplly contaminated

@@ -1,0 +1,14 @@
+# District-level demand profile
+# district_id,name,population,need_water,need_medical,need_blankets,priority,x_km,y_km
+D01,Riverside,18400,1600,420,1400,5,10.0,10.0
+D02,Old Market,12600,1100,260,900,3,22.0,8.0
+D03,Industrial Park,9800,800,180,600,3,18.0,26.0
+D04,Hill Ridge,14200,1250,520,1150,5,8.0,34.0
+D05,University Quarter,16100,1200,300,700,2,26.0,20.0
+D06,Forest Edge,13800,1750,610,1900,5,12.0,44.0
+D07,Marina Point,11400,950,340,820,4,44.0,30.0
+D08,Coastal Belt,21300,2000,700,1650,5,48.0,42.0
+D09,Chandpur,8900,700,240,540,4,6.0,30.0
+D10,Mithi Crossing,10200,880,290,610,4,30.0,34.0
+D11,Sector 11,13400,1150,480,1050,4,16.0,40.0
+D12,Airport District,17600,1050,390,820,2,52.0,18.0

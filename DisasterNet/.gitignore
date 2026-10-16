@@ -1,0 +1,16 @@
+# Build output
+out/
+*.class
+
+# Pipeline artifacts. The directory structure is tracked, the run products are not.
+output/**/*.csv
+output/**/*.txt
+
+# Editor and IDE state
+.idea/
+*.iml
+.DS_Store
+
+# Scratch
+*.log
+tmp/

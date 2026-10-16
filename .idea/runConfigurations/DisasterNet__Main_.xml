@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="DisasterNet (Main)" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Main" />
+    <module name="DisasterNet" />
+    <option name="PROGRAM_PARAMETERS" value="data output" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DisasterNet" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

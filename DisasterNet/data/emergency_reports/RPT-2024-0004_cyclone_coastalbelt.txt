@@ -1,0 +1,31 @@
+DISASTER INCIDENT REPORT
+========================
+Report ID      : RPT-2024-0004
+Incident Code  : CY-0400
+Hazard Class   : CYCLONE
+Severity       : CRITICAL
+Declared       : 2024-07-14 01:30 IST
+District       : D08 Coastal Belt
+Originator     : Meteorological Centre, Coastal Belt
+
+NARRATIVE
+Cyclone Meera has made landfall 30 km east of the Coastal Belt at 01:05 with a
+sustained wind speed of 178 km/h and gusts reaching 240 km/h. A storm surge of
+3.6 metres is expected along the eastern shoreline between 03:00 and 06:00.
+The seawall at Marina Point has been overtopped. A power outage affected the
+entire district at 01:12 and the emergency operations centre is now running on
+generator power only.
+
+DAMAGE ASSESSMENT
+- 4,100 households are without electricity; restoration will take days.
+- The Marina Point seawall breach threatens 900 homes.
+- Fishing vessels at the harbour have broken moorings.
+- 2,700 people required shelter in 11 cyclone shelters.
+
+IMMEDIATE ACTIONS
+1. Keep all shelters open and staff them with medical volunteers.
+2. Deploy rescue teams T-05 and T-07 for the Marina Point breach.
+3. Request 1,500 blanket sets, 600 medical kits and 2,000 water packets.
+4. Suspend all harbour operations until the storm passes.
+
+STATUS: landfall complete. Severe winds continuing. Storm surge imminent.

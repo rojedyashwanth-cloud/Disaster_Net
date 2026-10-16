@@ -1,0 +1,31 @@
+DISASTER INCIDENT REPORT
+========================
+Report ID      : RPT-2024-0002
+Incident Code  : EQ-0200
+Hazard Class   : EARTHQUAKE
+Severity       : CRITICAL
+Declared       : 2024-07-14 04:48 IST
+District       : D04 Hill Ridge
+Originator     : Seismic Observatory Network
+
+NARRATIVE
+A magnitude 6.1 earthquake with an epicentre 11 km north of Hill Ridge struck at
+04:41 IST. Shaking lasted 38 seconds. The intensity at the Ridge road corridor
+was estimated at VIII on the Mercalli scale. A landslide has taken out the
+Hill Ridge approach road and there are reports of a bridge collapse at the
+Chandpur crossing. Cellular service is intermittent across the district.
+
+DAMAGE ASSESSMENT
+- The Midtown Hospital sustained structural damage and is operating on backup
+  power. Triage is being conducted in the courtyard.
+- 22 homes in the Hill Ridge colony are destroyed or unsafe.
+- The main water trunk line is ruptured near Chandpur.
+- 3,200 people are stranded on the far side of the landslide.
+
+IMMEDIATE ACTIONS
+1. Deploy rescue teams T-02, T-03 and T-06 for urban search and rescue.
+2. Airlift requested for two heavy medical teams.
+3. Establish a triage centre at Midtown School.
+4. Issue an aftershock warning; expect further collapse for 48 hours.
+
+STATUS: aftershock sequence continuing. Aftershock warning in force.

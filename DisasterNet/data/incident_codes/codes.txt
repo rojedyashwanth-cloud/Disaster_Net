@@ -1,0 +1,16 @@
+# DisasterNet incident code registry
+# Format: CODE | HAZARD_CLASS | PRIORITY | DESCRIPTION | KEYWORDS
+FL-0100 | FLOOD        | 5 | Water level critical, levee breach            | flood, water level, levee, evacuation
+FL-0110 | FLOOD        | 3 | Urban drainage overflow                      | drainage, waterlogging, street flooding
+EQ-0200 | EARTHQUAKE   | 5 | Seismic event with structural damage          | earthquake, seismic, collapse, aftershock
+EQ-0210 | EARTHQUAKE   | 4 | Landslide triggered by seismic activity      | landslide, slope failure, blocked road
+WF-0300 | WILDFIRE     | 5 | Active fire front advancing                   | wildfire, fire front, smoke, wind
+WF-0310 | WILDFIRE     | 4 | Spot fire in plantation belt                  | spot fire, plantation, brush fire
+CY-0400 | CYCLONE      | 5 | Landfall with storm surge                    | cyclone, landfall, storm surge, wind
+CY-0410 | CYCLONE      | 4 | Coastal inundation and seawall breach         | seawall, inundation, coastal, harbour
+CS-0500 | CHEMICAL     | 4 | Industrial solvent release                    | chemical, spill, solvent, contamination
+CS-0510 | CHEMICAL     | 3 | Toxic gas exposure in populated area         | gas, exposure, decontamination, inhalation
+LS-0600 | LANDSLIDE    | 5 | Road and settlement isolation                 | landslide, isolation, chokepoint, access
+ST-0700 | STORM        | 3 | Severe thunderstorm with hail                | storm, hail, thunderstorm, gust
+PO-0800 | INFRA        | 3 | Power outage affecting critical facility     | power outage, substation, blackout, generator
+WA-0900 | INFRA        | 4 | Water supply contamination                    | water supply, contamination, purification, intake

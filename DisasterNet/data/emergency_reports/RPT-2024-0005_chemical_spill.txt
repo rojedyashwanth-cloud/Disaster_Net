@@ -1,0 +1,31 @@
+DISASTER INCIDENT REPORT
+========================
+Report ID      : RPT-2024-0005
+Incident Code  : CS-0500
+Hazard Class   : CHEMICAL SPILL
+Severity       : MODERATE
+Declared       : 2024-07-14 09:26 IST
+District       : D03 Industrial Park
+Originator     : Plant Safety Officer, Unit 7
+
+NARRATIVE
+A tank rupture at Unit 7 has released an estimated 14,000 litres of industrial
+solvent into the drainage channel at 09:05. The spill is moving towards the
+Mithi river intake and the smell of solvent has been reported in the eastern
+quarter. Firefighters have deployed absorbent booms and are pumping the
+affected channel. A fire risk exists if the solvent reaches the still water
+near the loading bay.
+
+DAMAGE ASSESSMENT
+- 1,100 residents in the eastern quarter advised to keep windows shut.
+- The municipal water intake is shut down as a precaution.
+- No injuries reported. Two workers treated for mild chemical exposure.
+- Minor soil contamination around the tank farm.
+
+IMMEDIATE ACTIONS
+1. Keep the river intake closed until laboratory results are clear.
+2. Distribute 800 water packets to the eastern quarter.
+3. Deploy rescue teams T-08 for decontamination support.
+4. Monitor air quality at three schools.
+
+STATUS: contained. Recovery and monitoring continuing.

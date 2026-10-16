@@ -1,0 +1,31 @@
+DISASTER INCIDENT REPORT
+========================
+Report ID      : RPT-2024-0001
+Incident Code  : FL-0100
+Hazard Class   : FLOOD
+Severity       : CRITICAL
+Declared       : 2024-07-14 03:12 IST
+District       : D01 Riverside
+Originator     : District Control Room, Riverside
+
+NARRATIVE
+Continuous rainfall over the upper catchment has pushed the river gauge at
+Riverside Bridge past the critical flood threshold of 9.5 metres. Two levees
+downstream of the Old Market breach at 02:40. Water is entering low lying
+residential blocks 4, 5 and 6 at roughly 30 cm per hour. A power outage has
+disabled the East Pump Station, so flooding is worsening faster than the
+forecast assumed.
+
+DAMAGE ASSESSMENT
+- 1,450 households affected in blocks 4, 5, 6 and 9.
+- Riverside Bridge remains open to emergency vehicles only.
+- Water supply to 3,000 residents is contaminated and must not be used.
+- No casualties reported so far; two rescue teams are en route.
+
+IMMEDIATE ACTIONS
+1. Evacuate blocks 4 and 5 to the Riverside School shelter before 05:00.
+2. Deploy rescue teams T-01 and T-04 with boats for block 6.
+3. Request 900 water purification tablets and 400 medical kits.
+4. Warn the hospital of a probable 40 bed surge.
+
+STATUS: escalating. A flood warning remains in force for the whole district.

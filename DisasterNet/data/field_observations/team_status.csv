@@ -1,0 +1,58 @@
+# Rescue team status feed, appended live during the incident
+# timestamp,team_id,mission,casualties_handled,status,severity
+2024-07-14T01:05,T-01,standby at Riverside quay,0,READY,1
+2024-07-14T02:10,T-01,boat sweep block 4,14,ENGAGED,4
+2024-07-14T03:20,T-01,boat sweep block 5,31,ENGAGED,5
+2024-07-14T04:55,T-01,shelter run block 6,38,ENGAGED,4
+2024-07-14T05:40,T-01,relief and rest rotation,38,READY,2
+2024-07-14T02:15,T-02,urban search Old Market,6,ENGAGED,3
+2024-07-14T03:05,T-02,debris removal Market Row,11,ENGAGED,3
+2024-07-14T04:40,T-02,structural triage,19,ENGAGED,4
+2024-07-14T05:30,T-02,structural triage,24,ENGAGED,4
+2024-07-14T04:00,T-03,collapse search Hill Ridge,9,ENGAGED,5
+2024-07-14T04:35,T-03,collapse search Hill Ridge,17,ENGAGED,5
+2024-07-14T05:10,T-03,chokepoint rescue,23,ENGAGED,5
+2024-07-14T05:45,T-03,chokepoint rescue,29,ENGAGED,5
+2024-07-14T06:10,T-03,aftershock response,33,ENGAGED,5
+2024-07-14T01:20,T-04,bridge assessment Riverside,3,ENGAGED,3
+2024-07-14T02:45,T-04,bridge assessment Riverside,7,ENGAGED,4
+2024-07-14T04:05,T-04,pump station recovery,9,ENGAGED,4
+2024-07-14T05:20,T-04,pump station recovery,12,ENGAGED,3
+2024-07-14T02:30,T-05,pre landfall securing,5,ENGAGED,4
+2024-07-14T03:15,T-05,shelter staffing Marina,28,ENGAGED,5
+2024-07-14T04:50,T-05,shelter staffing Marina,52,ENGAGED,5
+2024-07-14T06:00,T-05,shelter staffing Marina,71,ENGAGED,5
+2024-07-14T06:30,T-05,shelter staffing Marina,88,ENGAGED,5
+2024-07-14T07:45,T-05,medical surge support,96,ENGAGED,4
+2024-07-14T03:00,T-06,airlift prep Hill Ridge,2,ENGAGED,4
+2024-07-14T04:15,T-06,airlift run Hill Ridge,8,ENGAGED,5
+2024-07-14T05:00,T-06,airlift run Hill Ridge,15,ENGAGED,5
+2024-07-14T05:50,T-06,airlift run Hill Ridge,21,ENGAGED,5
+2024-07-14T06:30,T-06,airlift run Hill Ridge,27,ENGAGED,5
+2024-07-14T02:40,T-07,harbour vessel recovery,6,ENGAGED,4
+2024-07-14T03:30,T-07,seawall breach survey,12,ENGAGED,5
+2024-07-14T04:45,T-07,seawall breach rescue,25,ENGAGED,5
+2024-07-14T06:05,T-07,seawall breach rescue,34,ENGAGED,5
+2024-07-14T07:10,T-07,seawall breach rescue,41,ENGAGED,4
+2024-07-14T09:10,T-08,decontamination support,4,ENGAGED,3
+2024-07-14T10:20,T-08,decontamination support,9,ENGAGED,3
+2024-07-14T11:05,T-08,air quality school sweep,11,READY,2
+2024-07-14T03:30,T-09,convoy to Riverside,0,ENGAGED,3
+2024-07-14T04:25,T-09,convoy to Riverside,0,ENGAGED,3
+2024-07-14T05:15,T-09,convoy to Old Market,0,ENGAGED,3
+2024-07-14T06:00,T-09,convoy to Mithi Crossing,0,ENGAGED,3
+2024-07-14T06:40,T-09,distribute purification tablets,0,READY,2
+2024-07-14T02:00,T-10,open 11 cyclone shelters,0,ENGAGED,4
+2024-07-14T03:45,T-10,shelter intake registration,180,ENGAGED,5
+2024-07-14T05:00,T-10,shelter intake registration,640,ENGAGED,5
+2024-07-14T06:00,T-10,shelter logistics,1210,ENGAGED,5
+2024-07-14T07:00,T-10,shelter logistics,1880,ENGAGED,4
+2024-07-14T08:00,T-10,shelter logistics,2700,ENGAGED,4
+2024-07-14T19:30,T-11,fire line eastern flank,0,ENGAGED,5
+2024-07-14T20:15,T-11,fire line eastern flank,0,ENGAGED,5
+2024-07-14T21:00,T-11,flank withdrawal,0,ENGAGED,5
+2024-07-14T21:45,T-11,regroup north ridge,0,READY,4
+2024-07-14T05:00,T-12,highland route survey,5,ENGAGED,4
+2024-07-14T06:20,T-12,highland route survey,11,ENGAGED,4
+2024-07-14T07:45,T-12,highland casualty retrieval,18,ENGAGED,5
+2024-07-14T09:00,T-12,highland casualty retrieval,23,ENGAGED,4

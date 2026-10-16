@@ -1,0 +1,7 @@
+# DisasterNet relief warehouse inventory
+# warehouse_id,name,water_packets,medical_kits,blanket_sets,road_capacity_per_day
+WH-01,North Depot,4200,850,2600,900
+WH-02,East Logistics Hub,3100,640,1500,700
+WH-03,South Granary,2700,520,3100,650
+WH-04,West Relief Yard,1900,410,1200,500
+WH-05,Airport Warehouse,5100,980,900,1100

@@ -1,0 +1,31 @@
+DISASTER INCIDENT REPORT
+========================
+Report ID      : RPT-2024-0003
+Incident Code  : WF-0300
+Hazard Class   : WILDFIRE
+Severity       : HIGH
+Declared       : 2024-07-13 19:05 IST
+District       : D06 Forest Edge
+Originator     : Forest Range Officer, Sector 11
+
+NARRATIVE
+A wildfire started in the dry plantation belt at 18:47 and is being driven by
+a strong westerly wind at 46 km/h. The fire front has already consumed 180
+hectares and is advancing at 1.2 km per hour towards the Forest Edge township.
+Humidity has dropped to 11 percent. Smoke is reducing visibility to under 200
+metres on the ridge road. Two forward firefighting crews are attempting to
+hold the eastern flank but a wind shift at 19:40 pushed them back.
+
+DAMAGE ASSESSMENT
+- 6,800 people live inside the current danger zone.
+- A power outage has cut electricity to the township and the water pump station.
+- The highway is closed in both directions due to smoke.
+- No casualties reported. Evacuation of the northern hamlets is 60 percent done.
+
+IMMEDIATE ACTIONS
+1. Complete evacuation of the Forest Edge township before 23:00.
+2. Request air support for water bombing on the southern flank.
+3. Open two relief camps with 1,200 blanket sets.
+4. Warn hospitals about a possible respiratory surge.
+
+STATUS: active fire front. Red warning in force. Evacuation continuing.

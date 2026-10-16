@@ -1,0 +1,15 @@
+# Rescue team roster and capability matrix
+# team_id,name,capabilities,sectors,shift_hours
+T-01,Alpha Boat Crew,water-rescue,medical,D01;D06,12
+T-02,Urban Search Unit,urban-rescue,technical,D02;D05,10
+T-03,Structural Rescue,urban-rescue,technical,D04;D09,12
+T-04,Bridge Engineering,water-rescue,technical,D01;D07,8
+T-05,Cyclone Response,wind-rescue,medical,D08;D12,10
+T-06,Heavy Lift Airlift,air-lift,technical,D04;D11,12
+T-07,Marina Rescue,water-rescue,medical,D07;D08,10
+T-08,Hazmat Decon,hazmat,medical,D03;D06,8
+T-09,Logistics Support,logistics,medical,D01;D05;D10,12
+T-10,Shelter Operations,shelter,medical,D02;D12,12
+T-11,Wildfire Ground Crew,wind-rescue,technical,D06;D11,8
+T-12,Highland Rescue,urban-rescue,technical,D04;D06,12
+1,yasha,4,medical,morning
